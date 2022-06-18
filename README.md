@@ -5,4 +5,5 @@
 - 🌱 I’m currently learning R, Pyhton and DAX languages.
 - 💬 I am looking to collaborate on data science and social science research communities.
 - ⚡  I’m looking for help with human talented oriented data science technologies.
+-
 - You can contact me on: mc.oscar.est@gmail.com
