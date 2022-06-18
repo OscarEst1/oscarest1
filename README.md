@@ -7,3 +7,6 @@
 - ⚡  I’m looking for help with human talented oriented data science technologies.
 -
 - You can contact me on: mc.oscar.est@gmail.com
+
+### Projects
+- R and Python Data Science Project (developing)
