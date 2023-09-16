@@ -7,4 +7,4 @@
 - You can contact me on: mc.oscar.est@gmail.com
 
 ### Project Topics
-- Regression models, psychometric and data manipulation.
+- Regression models, psychometry and data manipulation.
